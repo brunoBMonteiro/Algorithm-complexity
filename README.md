@@ -14,3 +14,5 @@ https://www.bigocheatsheet.com/
 
 ### Array Sorting Algorithms
 ![Captura de tela de 2022-10-25 12-48-35](https://user-images.githubusercontent.com/52968377/197821187-f00276a9-9d9d-41cc-85ba-0e80d6ef2f29.png)
+
+![Captura de tela de 2022-10-25 12-50-05](https://user-images.githubusercontent.com/52968377/197821517-9685dff8-1688-4609-b64c-6156efb9827b.png)
