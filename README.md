@@ -11,6 +11,8 @@ https://www.bigocheatsheet.com/
 ### Common Data Structure Operations
 ![Captura de tela de 2022-10-25 12-47-12](https://user-images.githubusercontent.com/52968377/197820894-0713ea07-987c-4d4f-811e-856161c9ca61.png)
 
+### Time Complexity of Java Collections article
+https://www.baeldung.com/java-collections-complexity
 
 ### Array Sorting Algorithms
 ![Captura de tela de 2022-10-25 12-48-35](https://user-images.githubusercontent.com/52968377/197821187-f00276a9-9d9d-41cc-85ba-0e80d6ef2f29.png)
